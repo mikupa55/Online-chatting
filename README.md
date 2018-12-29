@@ -2,7 +2,7 @@
 Simple website for chatting
 
 
-Frontend: React with Javascript
+Frontend: React with Javascript\n
 Backend: Server--express
          Database--postgresql
 
